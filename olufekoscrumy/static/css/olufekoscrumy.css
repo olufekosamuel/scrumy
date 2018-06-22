@@ -1,0 +1,21 @@
+
+th {
+    background-color: #C2C2C2;
+    color: black;
+    letter-spacing: 2px;
+}
+
+td{
+	letter-spacing: 1px;
+}
+
+td {
+  text-align: center;
+}
+
+table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+  border: 2px solid black;
+}
